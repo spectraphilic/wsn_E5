@@ -13,6 +13,8 @@ Open-source License MIT, see the file [`LICENSE`](https://github.com/spectraphil
 
 The designed is made out of commercial breakout boards. All break out are joined by a main PCB board using through-hole components. To open the files, use the open source software [KiCad](https://www.kicad.org/).
 
+Development of the compatible RIOT firmware available on github at https://github.com/spectraphilic/wsn_riot.
+
 **Objectives for V1:**
 
 - complete a functional design

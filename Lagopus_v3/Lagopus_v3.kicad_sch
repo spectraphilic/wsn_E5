@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 3c73ac31-9553-4291-8165-1f0e3245825b)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Bottom Board" (at 16.51 80.01 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid 36cb98b9-655d-4545-97c4-072dba9be4a5)
+  )
+  (text "Top Board" (at 16.51 19.05 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid b4a95ec9-4f45-4cf8-8b52-86c6368fabf8)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
